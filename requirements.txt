@@ -1,3 +1,9 @@
 streamlit
-pandas
+langchain
+langchain-community
+openai
+faiss-cpu
+pypdf
+tiktoken
 numpy
+pandas
