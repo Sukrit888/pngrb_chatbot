@@ -17,7 +17,6 @@ st.set_page_config(
 )
 
 st.title("🤖 PNGRB Regulatory Chatbot")
-st.caption("Stable Streamlit Cloud RAG using OpenAI")
 
 # --------------------------------------------------
 # OPENAI CONFIG
