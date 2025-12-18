@@ -4,9 +4,7 @@ langchain>=0.2.11
 langchain-community>=0.2.11
 langchain-text-splitters>=0.2.1
 
-huggingface-hub>=0.23.0
-
 faiss-cpu
 pypdf
-numpy
 requests
+numpy
